@@ -28,3 +28,8 @@ def info():
 @app.route("/monitor")
 def monitor():
     return render_template("monitor.html")
+
+
+@app.errorhandler(404)
+def page_not_found(request):
+    return render_template('notfound.html'), 404
