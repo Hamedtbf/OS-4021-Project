@@ -2,6 +2,4 @@
 /.idea/*
 /src/__pycache__/
 /src/app/__pycache__/
-/src/monitor/static/
-/src/monitor/templates/
 /src/monitor/tests/
