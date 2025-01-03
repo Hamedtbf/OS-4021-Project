@@ -1,0 +1,6 @@
+/src/monitor/migrations/
+/db.sqlite3
+/env/*
+/.idea/*
+/src/__pycache__/*
+/src/monitor/__pycache__/*
